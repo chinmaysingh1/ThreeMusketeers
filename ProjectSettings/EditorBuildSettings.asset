@@ -15,6 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/soup.unity
     guid: d28c2e5e40589154b8663628f62936ea
   m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 551972a080f396442a00dc6d5434a364, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 98e6d1d12598c174bbaeb0b494484456, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 75a4bb3028de3dc4e866a8010cff39c7, type: 2}
   m_UseUCBPForAssetBundles: 0
