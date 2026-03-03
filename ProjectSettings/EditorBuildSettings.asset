@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/main.unity
     guid: a2a8989af183eba4c82b0b83968f33d5
   - enabled: 1
-    path: Assets/Scenes/fork.unity
+    path: Assets/Scenes/egg.unity
     guid: e3a093636ed50504eaae5d4f2029d6fa
   - enabled: 1
     path: Assets/Scenes/soup.unity
