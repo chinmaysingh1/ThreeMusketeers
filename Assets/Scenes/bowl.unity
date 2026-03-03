@@ -1229,8 +1229,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa20c5d4e5a145245b273bd9cb5be2d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Wobble
-  MaxWobble: 0.02
-  WobbleSpeed: 0.8
+  MaxWobble: 0.03
+  WobbleSpeed: 1
   Recovery: 1
 --- !u!1001 &203749225
 PrefabInstance:
